@@ -5,7 +5,7 @@
 - Skills:
 - VBScript (OK)
 - Very basic C and Makefile
-- Minimal understanding on Python
+- Average Python Skills
 - can read java
 
 
